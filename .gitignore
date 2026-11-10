@@ -1,0 +1,7 @@
+node_modules/
+pricingpulse.db
+pricingpulse.db-shm
+pricingpulse.db-wal
+npm-debug.log*
+.DS_Store
+Thumbs.db
